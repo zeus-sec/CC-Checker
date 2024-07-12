@@ -8,4 +8,4 @@ Le % de réussite cet outil dépend de votre database de bin (bin_info.csv)
     Evaluation des risques
 
 
-#❗ JE NE SUIS PAS RESPONSABLE DE VOS ACTES ❗
+# ❗ JE NE SUIS PAS RESPONSABLE DE VOS ACTES ❗
